@@ -34,4 +34,6 @@ Sou Engenheiro de Software recém-formado, com especialização em Qualidade de 
 </div>
 
 ## Contato:
-<a href="https://www.linkedin.com/in/guilherme-cantarino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a>
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/guilherme-cantarino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a> 
+</div>
