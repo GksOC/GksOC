@@ -30,7 +30,6 @@ Sou Engenheiro de Software recém-formado, com especialização em Qualidade de 
   <img align="center" alt="Docker" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Unity" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
   <img align="center" alt="Godot" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
-  <img align="center" alt="Godot" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
   <img align="center" alt="Unreal" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
 </div>
 
