@@ -15,6 +15,8 @@ Sou Engenheiro de Software recém-formado, com especialização em Qualidade de 
   <img align="center" alt="CSharp" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="EF" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg">
   <img align="center" alt="JS" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Java" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="C" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="SQL-Server" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   <img align="center" alt="MySQL" height="50px" width="50px" src="https://cdn.simpleicons.org/mysql">
   <img align="center" alt="MongoDB" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
@@ -26,6 +28,10 @@ Sou Engenheiro de Software recém-formado, com especialização em Qualidade de 
   <img align="center" alt="Jenkins" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="GitHub-Actions" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg">
   <img align="center" alt="Docker" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Unity" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+  <img align="center" alt="Godot" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+  <img align="center" alt="Godot" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+  <img align="center" alt="Unreal" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
 </div>
 
 ## Contato:
