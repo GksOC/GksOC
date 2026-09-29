@@ -11,20 +11,22 @@ Sou Engenheiro de Software recém-formado, com especialização em Qualidade de 
 - ⚡ Fun fact: faço tudo sem precisar de tomar café. Bom que sobra mais para vocês.
 
 ## Ferramentas:
-<img align="center" alt="CSharp" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="EF" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg">
-<img align="center" alt="JS" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="SQL-Server" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-<img align="center" alt="MySQL" height="50px" width="50px" src="https://cdn.simpleicons.org/mysql">
-<img align="center" alt="MongoDB" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
-<img align="center" alt="Cypress" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
-<img align="center" alt="Cucumber" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
-<img align="center" alt="Jest" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-<img align="center" alt="Postman" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
-<img align="center" alt="K6" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg">
-<img align="center" alt="Jenkins" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-<img align="center" alt="GitHub-Actions" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg">
-<img align="center" alt="Docker" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
+<div style="display: inline_block">
+  <img align="center" alt="CSharp" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="EF" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg">
+  <img align="center" alt="JS" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="SQL-Server" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="50px" width="50px" src="https://cdn.simpleicons.org/mysql">
+  <img align="center" alt="MongoDB" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="Cypress" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Cucumber" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="Jest" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Postman" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+  <img align="center" alt="K6" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg">
+  <img align="center" alt="Jenkins" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="GitHub-Actions" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg">
+  <img align="center" alt="Docker" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
+</div>
 
 ## Contato:
 <a href="https://www.linkedin.com/in/guilherme-cantarino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a>
